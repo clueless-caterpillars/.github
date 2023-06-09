@@ -7,6 +7,13 @@ We are Clueless Caterpillars! Check out some of our projects below:
 * Weather Pi
   * A backend service that returns weather information from a Raspberry Pi.
 
+Our contributors:
+* Miranda Lu - https://www.linkedin.com/in/mirandaluucdavis/
+* Nate Brown - https://www.linkedin.com/in/nate-brown-dev/
+* Kawika Miller - https://www.linkedin.com/in/kawikamiller/
+* Kameron Watts - https://www.linkedin.com/in/kamwatts/
+* Daniel Yoon - https://www.linkedin.com/in/dansyoon/
+
 <!--
 
 **Here are some ideas to get you started:**
