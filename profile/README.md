@@ -2,9 +2,9 @@
 
 We are Clueless Caterpillars! Check out some of our projects below:
 
-* Plant Pal
+* [Plant Pal](https://github.com/clueless-caterpillars/plant-water-pi)
   * A mobile app that allows you to remotely control a Raspberry Pi to water and monitor your plant.
-* Weather Pi
+* [Weather Pi](https://github.com/clueless-caterpillars/weather-pi)
   * A backend service that returns weather information from a Raspberry Pi.
 
 Our contributors:
