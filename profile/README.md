@@ -4,6 +4,8 @@ We are Clueless Caterpillars! Check out some of our projects below:
 
 * [Plant Pal](https://github.com/clueless-caterpillars/plant-water-pi)
   * A mobile app built with React Native and Expo that allows you to remotely control a Raspberry Pi to water and monitor your plant.
+* [Plant Pal Raspberry](https://github.com/clueless-caterpillars/plant-water-raspberry-code)
+  * The infrasstructure running the automated raspberry pi watering system
 * [Weather Pi](https://github.com/clueless-caterpillars/weather-pi)
   * A Node backend service that returns weather information from a Raspberry Pi.
 
